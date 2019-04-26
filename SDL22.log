@@ -1,0 +1,17 @@
+﻿  bullet.cpp
+  main.cpp
+d:\asteroid\main.cpp(122): warning C4018: '<': signed/unsigned mismatch
+d:\asteroid\main.cpp(126): warning C4018: '<': signed/unsigned mismatch
+d:\asteroid\main.cpp(154): warning C4018: '<': signed/unsigned mismatch
+d:\asteroid\main.cpp(156): warning C4018: '<': signed/unsigned mismatch
+  Object.cpp
+  Meteor.cpp
+d:\asteroid\meteor.cpp(18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\asteroid\meteor.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\asteroid\meteor.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  spacecraft.cpp
+d:\asteroid\spacecraft.cpp(50): warning C4018: '<': signed/unsigned mismatch
+d:\asteroid\spacecraft.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  Text.cpp
+  Generating Code...
+  SDL22.vcxproj -> D:\asteroid\Debug\Meteor and SpaceCraft.exe
